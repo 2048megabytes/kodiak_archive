@@ -6,6 +6,8 @@ no way in shape or form a playable game.
 You are allowed to decompile the DLLs of the game. You can do whatever with this version
 of ToonLand.
 
+Our game has the idea to be a full creation of Toontown. New features will be decided upon later.
+
 # Where to download?
 Check the releases tab.
 
