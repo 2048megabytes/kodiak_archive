@@ -6,6 +6,9 @@ no way in shape or form a playable game.
 You are allowed to decompile the DLLs of the game. You can do whatever with this version
 of ToonLand.
 
+# Where to download?
+Check the releases tab.
+
 # Builds
 2020 - 06 - 20, ToonLand June 16, 2020 - Tuning 1.01.000.02 (June 20, 2020)
 
